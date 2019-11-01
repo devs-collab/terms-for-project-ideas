@@ -1,8 +1,8 @@
 # Terms for using #project-ideas channel on Devs Collab Discord Server
 
----
-
 ## Effective date: November 02, 2019
+
+---
 
 ## Glossary
 
