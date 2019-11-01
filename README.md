@@ -29,7 +29,7 @@ This page informs you of our terms and conditions for bering a member of the #pr
 
 > ### If Your Idea is Used For a Project
 
-Acceptance of the idea for a project suggests that the project now belongs to the entire DevsCollab OpenSource Community as an Opensource project. However, the sole concept of the idea belongs to the one who proposed it. So, the ideator will be credited for the idea behind the project and the entire prject will remain an opensource entity.
+Acceptance of the idea for a project suggests that the project now belongs to the entire DevsCollab OpenSource Community as an Opensource project. However, the sole concept of the idea belongs to the one who proposed it. So, the ideator will be credited for the idea behind the project and the entire project will remain an opensource entity.
 
 > ### If Your Idea is not Used For any Project
 
